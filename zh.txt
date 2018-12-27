@@ -8,3 +8,5 @@ print("3.0
 
 print("4.0")
 print("5")
+
+print("6")
