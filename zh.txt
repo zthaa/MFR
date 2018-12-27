@@ -10,3 +10,5 @@ print("4.0")
 print("5")
 
 print("6")
+
+print("7")
